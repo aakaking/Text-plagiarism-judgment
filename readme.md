@@ -3,7 +3,7 @@
 ## data source
 + https://github.com/Deep-Learning-for-NLP-Chinese/Data_source
 
-## possible requirements
+## requirements
 + jieba
 + pandas 
 + numpy 
@@ -11,14 +11,11 @@
 + wordcloud
 + jupyter
 
-## Submission Requirements
+## Submission 
 
 + 源代码
-+ 最终汇报文档(pdf)
 + 中间运行结果(jupyter notebook)
-+ 算法流程解释(slides)
-+ 遇到的问题与思考(pdf)
++ 算法流程解释(pdf)
 
-## How to submit?
 
-+ git push to https://github.com/Deep-Learning-for-NLP-Chinese/Project-1.git
+
